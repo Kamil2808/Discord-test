@@ -2,4 +2,4 @@
 
 Just funny discord bot.
 
-Maybe it will be opensourse
+Maybe it will be open source
