@@ -1,5 +1,7 @@
-# Discord-test
+# Free Chat-GPT Discord
 
-Just funny discord bot.
+Just funny discord bot with ai.
 
-Maybe it will be open source
+# That bot don't using Chat GPT, it using other text model
+
+
